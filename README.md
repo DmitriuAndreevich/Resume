@@ -48,8 +48,8 @@
 ---
 
 ## 💡 Strengths
-- **Fast learner** – Mastered C++17/20 f
-- **Persistent** – Solved 150+ Codewars katas   
+- **Fast learner** – Mastered C++17/20 
+- **Persistent**
 - **Detail-oriented**   
 
 ---
