@@ -47,12 +47,7 @@
 - **Detail-oriented** – Implemented zero-memory-leak guarantee in DateTime library  
 
 ---
-
-## 🌱 Goals for 2024
-- Master **C++20/23** features (coroutines, modules)  
-- Deepen **algorithms** knowledge (DP, graph theory)  
-- Contribute to **open-source** (LLVM, Boost candidates)  
-- Achieve **5-kyu** on Codewars (current: 6-kyu)  
+ 
 
 <div align="center">
 
