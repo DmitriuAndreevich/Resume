@@ -24,10 +24,10 @@
 - **Tools:** CLion, VS Code, Git, Linux  
 - **Interests:** Algorithms, Optimization, Cybersecurity
 
-###Foreign language
+### Foreign language
 - **English:** B1
   
-###Native language
+### Native language
 - **Russian**
 
 ---
